@@ -1,4 +1,4 @@
-# 🕹️ Simulador HID - Button Box Customizada
+# 🕹️ Simulador HUD - Button Box Customizada
 
 Este projeto foi desenvolvido para a **Avaliação 01 da disciplina de Introdução à TI (CEUB)**. O objetivo é resolver o problema de imersão e agilidade em simuladores de alta performance através de hardware dedicado.
 
